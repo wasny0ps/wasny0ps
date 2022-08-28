@@ -7,7 +7,7 @@ Cyber security high school student who enjoys the work he loves when he is getti
 ![Profile views](https://gpvc.arturio.dev/wasny0ps)
 
 ### Technologies I deal with:
-PYTHON / C# / MySQL / SOLIDITY / DEBIAN / KALI LINUX / UBUNTU / PHP / NODE JS / JS / HTML / CSS
+[<img src='https://github.com/wasny0ps/wasny0ps/blob/main/images/python.png' alt='python' height='70'>](https://www.python.org/) / C# / MySQL / SOLIDITY / DEBIAN / KALI LINUX / UBUNTU / PHP / NODE JS / JS / HTML / CSS
 
 ### Me Nowadays
 - 🔭 I’m currently working on web exploitation and own web3 application. 
