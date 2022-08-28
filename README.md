@@ -1,5 +1,5 @@
 ### Hi👋, I'm Akif İnan Yiğit who is wasny0ps
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/wasny0ps/wasny0ps/blob/main/images/banner.png)
 
 ---
 ### About Me
