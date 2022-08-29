@@ -16,6 +16,10 @@ Cyber security high school student who enjoys the work he loves when he is getti
 - 🌱 I’m currently learning Blockchain Security and malware development. 
 
 ---
+### 📝 My Articles in Medium:(medium.com/@akifinanyigit)
+
+### ✍🏻 Try Hack Me Writeups ->
+---
 ### Let's Contact
 
 [<img src='https://github.com/wasny0ps/wasny0ps/blob/main/images/github.png' alt='github' height='70'>](https://github.com/wasny0ps)  [<img src='https://github.com/wasny0ps/wasny0ps/blob/main/images/linkedin.png' alt='linkedin' height='55'>](https://www.linkedin.com/in/akifinanyigit/)  [<img src='https://github.com/wasny0ps/wasny0ps/blob/main/images/twitter.png' alt='twitter' height='60'>](https://twitter.com/letsgowasny)
