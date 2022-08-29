@@ -1,4 +1,4 @@
-![](https://github.com/wasny0ps/wasny0ps/blob/main/images/banner.jpg)
+![](https://github.com/wasny0ps/wasny0ps/blob/main/images/banner.png)
 ### Hi👋, I'm Akif İnan Yiğit who is wasny0ps
 
 
