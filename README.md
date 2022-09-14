@@ -18,7 +18,7 @@ Cyber security high school student who enjoys the work he loves when he is getti
 ---
 ### 📝 [My Articles in Medium](https://medium.com/@akifinanyigit)
 
-### ✍🏻 Ethernaut Writeups
+### ✍🏻 [Ethernaut Writeups](https://github.com/wasny0ps/Ethernaut-Challenges)
 ---
 ### Let's Contact
 
