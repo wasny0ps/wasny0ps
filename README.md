@@ -16,7 +16,7 @@ Cyber security high school student who enjoys the work he loves when he is getti
 - 🌱 I’m currently learning Blockchain Security and malware development. 
 
 ---
-### 📝 [My Articles in Medium:](https://medium.com/@akifinanyigit)
+### 📝 [My Articles in Medium](https://medium.com/@akifinanyigit)
 
 ### ✍🏻 Ethernaut Writeups
 ---
