@@ -22,7 +22,7 @@ Cyber security high school student who enjoys the work he loves when he is getti
 ---
 ### Let's Contact
 
-[<img src='https://github.com/wasny0ps/wasny0ps/blob/main/images/github.png' alt='github' height='70'>](https://github.com/wasny0ps)  [<img src='https://github.com/wasny0ps/wasny0ps/blob/main/images/linkedin.png' alt='linkedin' height='55'>](https://www.linkedin.com/in/akifinanyigit/)  [<img src='https://github.com/wasny0ps/wasny0ps/blob/main/images/twitter.png' alt='twitter' height='60'>](https://twitter.com/letsgowasny)
+[<img src='https://github.com/wasny0ps/wasny0ps/blob/main/images/github.png' alt='github' height='70'>](https://github.com/wasny0ps)  [<img src='https://github.com/wasny0ps/wasny0ps/blob/main/images/linkedin.png' alt='linkedin' height='55'>][(https://www.linkedin.com/in/akifinanyigit/](https://www.linkedin.com/in/akif-inan-yi%C4%9Fit-331114202/))  [<img src='https://github.com/wasny0ps/wasny0ps/blob/main/images/twitter.png' alt='twitter' height='60'>]([https://twitter.com/letsgowasny](https://twitter.com/0psWasny))
 [<img src='https://github.com/wasny0ps/wasny0ps/blob/main/images/medium.png' alt='medium' height='50'>](https://twitter.com/https://medium.com/@akifinanyigit)  
 
 ---
