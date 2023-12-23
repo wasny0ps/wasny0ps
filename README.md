@@ -13,9 +13,7 @@ Cyber security high school student who enjoys the work he loves when he is getti
 - C#
 - C++
 - Assembly
-- Golang
 - Solidity
-- Rust
 - NodeJS
 - React
 - PHP
